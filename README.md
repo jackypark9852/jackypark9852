@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacky Park</h1>
-<h3 align="center">A motivated web/ game developer from South Korea</h3>
+<h3 align="center">A curious web/ game developer from South Korea</h3>
 
 - 🔭 I’m currently working on [tgsim-data-cleaner](https://github.com/jackypark9852/tgsim-data-cleaner)
 
