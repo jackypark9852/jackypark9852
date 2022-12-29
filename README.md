@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Jacky Park</h1>
 <h3 align="center">A motivated web/ game developer from South Korea</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackypark9852" alt="jackypark9852" /></a> </p>
-
 - 🔭 I’m currently working on [tgsim-data-cleaner](https://github.com/jackypark9852/tgsim-data-cleaner)
 
 - 👯 I’m currently part of **Hack4Imapact, UIUC GameBuilders**
 
-- 🌱 I’m currently learning **react and unity**
+- 🌱 I’m currently learning **React and Unity**
 
 - 🤝 I’m studying at the **University of Illinois Urbana-Champaign**
 
-- 💬 Ask me about **react, unity, or anything related to games!**
+- 💬 Ask me about **React, Unity, or anything related to games!**
 
-- 📫 How to reach me **jackypark9852@gmail.com**
+- 📫 How to reach me: **jackypark9852@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q7Q19bGZ3isHH7ZYnA8JJ9TMYpk1hOqh/view?usp=sharing](https://drive.google.com/file/d/1q7Q19bGZ3isHH7ZYnA8JJ9TMYpk1hOqh/view?usp=sharing)
+- 📄 Know about my experiences: [My resume](https://drive.google.com/file/d/1q7Q19bGZ3isHH7ZYnA8JJ9TMYpk1hOqh/view?usp=sharing)
 
-- ⚡ Fun fact **I started learning CS seriously while serving in the Korean Army**
+- ⚡ Fun fact **I really started getting into CS while serving in the Korean Army**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
