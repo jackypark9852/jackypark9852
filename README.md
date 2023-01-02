@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacky Park</h1>
 <h3 align="center">A curious web/ game developer from South Korea</h3>
 
-- 🔭 I’m currently working on [tgsim-data-cleaner](https://github.com/jackypark9852/tgsim-data-cleaner)
+- 🔭 I’m currently working on [elon-draws-bot](https://github.com/jackypark9852/tgsim-data-cleaner](https://github.com/jackypark9852/elon-draws-bot)
 
 - 👯 I’m currently part of **Hack4Imapact, UIUC GameBuilders**
 
