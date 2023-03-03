@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacky Park</h1>
 <h3 align="center">A curious web/ game developer from South Korea</h3>
 
-- 🔭 I’m currently working on [no-harvest](https://github.com/jackypark9852/no-harvest)
+- 🔭 I’m currently working on *secret project*
 
 - 👯 I’m currently part of **Hack4Imapact, UIUC GameBuilders**
 
