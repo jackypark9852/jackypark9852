@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jacky Park</h1>
 <h3 align="center">A curious web/ game developer from South Korea</h3>
 
-- 🔭 I’m currently working on a *secret project*
+- 🔭 I’m currently working on a [Triplight](https://github.com/Compsciler/Triplight)
 
-- 👯 I’m currently part of **Hack4Imapact, UIUC GameBuilders**
+- 🌱 I’m currently learning **OpenGL** and **Unity** 
 
-- 🌱 I’m currently learning **React and Unity**
+- 🤝 I will be studying at **Universtiy of Pennsylvania** this fall. 
 
-- 🤝 I’m studying at the **University of Illinois Urbana-Champaign**
-
-- 💬 Ask me about **React, Unity, or anything related to games!**
+- 💬 Ask me about **Unity or anything related to games!**
 
 - 📫 How to reach me: **jackypark9852@gmail.com**
 
