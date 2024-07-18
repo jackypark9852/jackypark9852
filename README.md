@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jacky Park</h1>
 <h3 align="center">A curious web/ game developer from South Korea</h3>
 
-- 🔭 I’m currently working on a [Triplight](https://github.com/Compsciler/Triplight)
+- 🔭 I’m currently working on [Triplight](https://github.com/Compsciler/Triplight)
 
 - 🌱 I’m currently learning **OpenGL** and **Unity** 
 
-- 🤝 I will be studying at **Universtiy of Pennsylvania** this fall. 
+- 🤝 I will be studying at **Computer Graphics and Game Technology @ Universtiy of Pennsylvania** this fall. 
 
 - 💬 Ask me about **Unity or anything related to games!**
 
